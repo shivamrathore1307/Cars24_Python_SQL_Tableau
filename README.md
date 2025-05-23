@@ -1,4 +1,5 @@
-🚗 Cars24 Used Car Market Analysis
+# 🚗 Cars24 Used Car Market Analysis
+
 A data-driven exploration of the used car market with actionable insights to help buyers, sellers, and platform strategists make better decisions. This project utilizes Python, Pandas, Matplotlib/Seaborn, and Power BI/Tableau for EDA and visualization.
 
 📌 Project Objective
